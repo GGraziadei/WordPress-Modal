@@ -14,9 +14,9 @@ Create a responsive modal in your WordPress site without use plug-in.
 - color: color used on the modal box header (text, hex structure)
 - padding: controls the content section padding (integral, without the px)
 - width: controls the modal box width (integral, without the px)
--attached: controls the modal box position (default center - takes: top, bottom)
--timeout: controls the modal box showing time (integral)
--timeoutProgressbar: controls if the modal will show the progress bar (default 0 - takes: 1)
+- attached: controls the modal box position (default center - takes: top, bottom)
+- timeout: controls the modal box showing time (integral)
+- timeoutProgressbar: controls if the modal will show the progress bar (default 0 - takes: 1)
 
 ## Exemple 
 [pippoModal id="gimme-a-call" label="Give us a phone call" title="Monday - Friday / 8AM to 6PM
