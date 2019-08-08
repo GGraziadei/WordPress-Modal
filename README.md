@@ -19,5 +19,7 @@ Create a responsive modal in your WordPress site without use plug-in.
 - timeoutProgressbar: controls if the modal will show the progress bar (default 0 - takes: 1)
 
 ## Exemple 
+<code>
 [pippoModal id="gimme-a-call" label="Give us a phone call" title="Monday - Friday / 8AM to 6PM
 " icon="fa fa-phone" padding="15" width="300"]CUSTOM HTML [/pippoModal]
+</code>
