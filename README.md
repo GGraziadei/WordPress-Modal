@@ -6,14 +6,14 @@ Create a responsive modal in your WordPress site without use plug-in.
 - Save and add the shortcode with parameters
 
 ## Parameters
--id: provides a unique ID to each box (string, mandatory)
--label: link label (text)
--title: part of the modal box header (text)
--subtitle: part of the modal box header (text)
--icon: part of the modal box header (text, should be the classes to show icons - ex: fa fa-star)
--color: color used on the modal box header (text, hex structure)
--padding: controls the content section padding (integral, without the px)
--width: controls the modal box width (integral, without the px)
+- id: provides a unique ID to each box (string, mandatory)
+- label: link label (text)
+- title: part of the modal box header (text)
+- subtitle: part of the modal box header (text)
+- icon: part of the modal box header (text, should be the classes to show icons - ex: fa fa-star)
+- color: color used on the modal box header (text, hex structure)
+- padding: controls the content section padding (integral, without the px)
+- width: controls the modal box width (integral, without the px)
 -attached: controls the modal box position (default center - takes: top, bottom)
 -timeout: controls the modal box showing time (integral)
 -timeoutProgressbar: controls if the modal will show the progress bar (default 0 - takes: 1)
